@@ -1,0 +1,21 @@
+body {
+	background-color: purple;
+
+}
+img {
+	background-color: orange;
+	width: 500px;
+	height: 500px;
+}
+legend {
+	font-size: 40px;
+	color: orange;
+}
+fieldset {
+	border-color: black;
+	border-size: 50px;
+}
+li {
+	font-size: 20px;
+	color: orange;
+}
